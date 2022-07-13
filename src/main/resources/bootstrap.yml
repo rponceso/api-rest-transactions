@@ -15,4 +15,4 @@ eureka:
     service-url:
       #defaultZone: http://eureka-server:8761/eureka
       #defaultZone: http://localhost:8761/eureka
-      defaultZone: https://spring-azure-eureka-server.azurewebsites.net/eureka
+      defaultZone: https://azure-eureka-server.azurewebsites.net/eureka
